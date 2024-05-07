@@ -5,6 +5,10 @@ VisualStudioVersion = 17.9.34701.34
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoMoreDisneyVillainSyndromeNCMSNML", "NoMoreDisneyVillainSyndromeNCMSNML\NoMoreDisneyVillainSyndromeNCMSNML.csproj", "{D7AE2F30-9713-430F-8F76-9634B16AC2D7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoMoreDisneyVillainSyndrome", "NoMoreDisneyVillainSyndrome\NoMoreDisneyVillainSyndrome.csproj", "{7F4D8D43-D0F3-4785-9959-07C3C9205779}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoMoreDisneyVillainSyndromeNativeModloader", "NoMoreDisneyVillainSyndromeNativeModloader\NoMoreDisneyVillainSyndromeNativeModloader.csproj", "{B59B35AC-64A9-4EA5-8A2B-7E43D11BEC6E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{D7AE2F30-9713-430F-8F76-9634B16AC2D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7AE2F30-9713-430F-8F76-9634B16AC2D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7AE2F30-9713-430F-8F76-9634B16AC2D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F4D8D43-D0F3-4785-9959-07C3C9205779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F4D8D43-D0F3-4785-9959-07C3C9205779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F4D8D43-D0F3-4785-9959-07C3C9205779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F4D8D43-D0F3-4785-9959-07C3C9205779}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B59B35AC-64A9-4EA5-8A2B-7E43D11BEC6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B59B35AC-64A9-4EA5-8A2B-7E43D11BEC6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B59B35AC-64A9-4EA5-8A2B-7E43D11BEC6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B59B35AC-64A9-4EA5-8A2B-7E43D11BEC6E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
